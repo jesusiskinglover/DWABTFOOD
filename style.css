@@ -1,0 +1,45 @@
+body {
+  background: #ffd966;
+  color: black;
+  padding: 25px;
+  font-family: 'Lexend', sans-serif;
+  font-style: bold;
+  text-align: justify;
+}
+h1 {
+  font-family: 'Lexend', sans-serif;
+  text-align: center;
+  color: black;
+  font-weight: 900;
+ 
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-weight: 900;
+  text-align: center;
+}
+img {
+ center;
+}
+
+h3{
+  font-weight: 900;
+  text-align: center;
+}
+
+a {
+  color: black;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
